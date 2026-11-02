@@ -1,3 +1,5 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+#Variables de entorno y claves
+.env
